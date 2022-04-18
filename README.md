@@ -1,4 +1,4 @@
-# Python-OOP-Project-5
+# Calorie-Calculator-Web
 
 A basic web scrapping app that can calculate people's daily needed calories depends on temperature etc.
 
